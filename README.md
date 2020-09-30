@@ -1,7 +1,7 @@
 # UyghurWebsiteCrawler
 simple crawler for some uyghur website such  as uy.ts.cn,bbs.bagdax.cn,www.bagdax.cn(using python and scrapy)
 
-### Preparations:
+### composing:
 Python and Scrapy is needed.
 
 Before run this code , please read the Scrapy Docs:
