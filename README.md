@@ -5,7 +5,7 @@ It is an Amazing work piece.
 ### Preparations:
 Python and Scrapy is needed.
 
-Before run this code , please read the Scrapy Docs:
+Before run this code , please read the Scrapy Docs in the given link:
 http://scrapy.org/
 
 ### Run
