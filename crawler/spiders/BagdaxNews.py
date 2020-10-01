@@ -1,4 +1,4 @@
-import scrapy
+import scrap
 import sys
 from scrapy.selector import HtmlXPathSelector
 from scrapy.utils.url import urljoin_rfc
