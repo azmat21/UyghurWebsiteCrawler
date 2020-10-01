@@ -1,14 +1,14 @@
 # UyghurWebsiteCrawler
-simple crawler for some uyghur website such  as uy.ts.cn,bbs.bagdax.cn,www.bagdax.cn(using python and scrapy)
+A simple crawler for some uyghur websites such  as uy.ts.cn, bbs.bagdax.cn, www.bagdax.cn(using python and scrapy)
 
-### Preparations:
+### Pre-requisites:
 Python and Scrapy is needed.
 
-Before run this code , please read the Scrapy Docs:
+Before running this code , please read the Scrapy Docs at:
 http://scrapy.org/
 
 ### Run
-To run the code open the Terminal and run the commond some like below(where xxx is your scrapy spider name ):
+To run the code, open the Terminal and run the commands like below(where xxx is your scrapy spider name):
 
 <code>
    scrapy crawl xxxx 
