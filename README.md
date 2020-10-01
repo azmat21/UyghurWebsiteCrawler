@@ -8,7 +8,7 @@ Before run this code , please read the Scrapy Docs:
 http://scrapy.org/
 
 ### Run
-To run the code open the Terminal and run the commond some like below(where xxx is your scrapy spider name ):
+To run the code open the Terminal and run the command some like below(where xxx is your scrapy spider name ):
 
 <code>
    scrapy crawl xxxx 
