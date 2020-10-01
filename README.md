@@ -1,4 +1,4 @@
-# UyghurWebsiteCrawler
+NICE work man! respect for you azmat21
 simple crawler for some uyghur website such  as uy.ts.cn,bbs.bagdax.cn,www.bagdax.cn(using python and scrapy)
 
 ### Preparations:
