@@ -9,7 +9,7 @@ Python and Scrapy is required.
 ### Before run this code , please read the Scrapy Docs in the given link:
 http://scrapy.org/
 
-### Run
+### Run Process
 To run this code open the Terminal and run the commond some like below(where xxx is your scrapy spider name ):
 
 
