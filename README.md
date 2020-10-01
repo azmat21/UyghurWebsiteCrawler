@@ -3,7 +3,7 @@ simple crawler for some uyghur website such  as uy.ts.cn,bbs.bagdax.cn,www.bagda
 It is an Amazing work piece.
 
 ### Preparations:
-Python and Scrapy are needed.
+Python and Scrapy is required.
 
 Before run this code , please read the Scrapy Docs in the given link:
 http://scrapy.org/
