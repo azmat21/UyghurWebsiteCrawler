@@ -17,5 +17,3 @@ To run this code open the Terminal and run the commond some like below(where xxx
    scrapy crawl xxxx 
 </code>
 
-download and use this project
-
